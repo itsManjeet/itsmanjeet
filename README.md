@@ -13,7 +13,7 @@ I'm a C++ developer with a keen interest in embedded systems and somehow interes
 - 📚 Passionate about knowledge sharing and learning from the community.
 - 🧑‍🏫 Mentorship offering guidance and support.
 
-| <a href="https://github.com/itsmanjeet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmanjeet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manjeet Singh github stats" /></a> | <a href="https://github.com/itsmanjeet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanjeet&theme=buefy&hide_border=true&hide=tex,shell,yacc,css,assembly,pascal,ruby" /></a> |
+| <a href="https://github.com/itsmanjeet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmanjeet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manjeet Singh github stats" /></a> | <a href="https://github.com/itsmanjeet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanjeet&theme=buefy&hide_border=true&hide=css,shell,lua,cmake,html,bitbake,c,makefile,mdx" /></a> |
 | ------------- | ------------- |
 
 ## Projects
