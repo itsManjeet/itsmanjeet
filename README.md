@@ -1,33 +1,60 @@
-# Hello there! 👋 I'm [Manjeet Singh](https://itsmanjeet.github.io)
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Manjeet%20Saini&fontAlignY=35&desc=Low-level%20Systems%20%7C%20Firmware%20%7C%20Embedded%20%7C%20Linux&descAlignY=55"
+    width="100%"
+    alt="header"
+  />
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://github.com/itsmanjeet">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-itsmanjeet-111111?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/itsmanjeet">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-itsmanjeet-111111?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-primary-111111?style=for-the-badge&logo=c%2B%2B" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-systems-111111?style=for-the-badge&logo=linux" />
+  <img alt="Golang" src="https://img.shields.io/badge/Go-impressed-111111?style=for-the-badge&logo=go" />
+</p>
 
-I'm a C++ developer with a keen interest in embedded systems and somehow interest towards web technologies. 
+---
 
-## What I love to Do 🫀
+## 👨‍💻 About
 
-- 🛠️ Developing system software for various platforms.
-- 🌐 Web technology enthusiast, with experience in full stack development.
-- 🔬 Constantly exploring new technologies and methodologies to enhance my skill set.
-- 🤝 Strong collaborator and team player, always eager to contribute to meaningful projects.
-- 📚 Passionate about knowledge sharing and learning from the community.
-- 🧑‍🏫 Mentorship offering guidance and support.
+I build software close to the hardware where **performance, determinism, and control** matter.
 
-| <a href="https://github.com/itsmanjeet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmanjeet&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manjeet Singh github stats" /></a> | <a href="https://github.com/itsmanjeet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanjeet&theme=buefy&hide_border=true&hide=css,shell,lua,cmake,html,bitbake,c,makefile,mdx" /></a> |
-| ------------- | ------------- |
+- 💙 **C++** is my primary language
+- 🐧 Linux internals enjoyer
+- ⚙️ Firmware + embedded development
+- 🔍 Also impressed by **Go** for clean architecture + concurrency
+- 🤝 I like helping! feel free to connect and share ideas
 
-## Projects
+---
 
-Here are some projects I've worked on:
+## 🛠️ Tech
 
-- **[rlxos/ignite](https://github.com/itsmanjeet/rlxos)**: A Yocto Like full-fledge build system for building desktop and embedded Linux distribution.
-- **[SrcLang](https://github.com/itsmanjeet/srclang)**: A Javascript like programming language for desktop applications.
-- **[Pkgupd](https://github.com/itsmanjeet/pkgupd)**: A Package and System updates Manager for rlxos/ignite based distributions.
-- **[Desktop](https://web.rlxos.dev)**: Web based desktop environment using plain JavaScript/Typescript for best performance.
+**Languages:** C++, C, Go  
+**Platform:** Linux
+**Interests:** os design, runtimes, isolation, performance engineering
 
-## Get in Touch
+---
 
-I'm always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
+## 🤝 Connect
 
-- 📧 Email: [itsmanjeet1998@gmail.com](mailto:itsmanjeet1998@gmail.com)
-- 💼 LinkedIn: [itsmanjeet](https://www.linkedin.com/in/itsmanjeet
+- GitHub: https://github.com/itsmanjeet
+- LinkedIn: https://linkedin.com/in/itsmanjeet
+- Email: itsmanjeet1998@gmail.com
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=itsmanjeet&show_icons=true&hide_title=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanjeet&layout=compact" alt="top-langs" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=itsmanjeet" alt="streak" />
+</p>
